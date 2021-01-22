@@ -4,4 +4,5 @@ SOT uses discord.py and is coded in Python. YOUR SERVER DOES NOT NEED TO BE AN E
 
 # Invite
 Invite SOT using the below link:
+
 https://discord.com/api/oauth2/authorize?client_id=801911439710879795&permissions=8&redirect_uri=https%3A%2F%2Fgithub.com%2FIAmUnStTV%2Fshiny-octo-telegram&scope=bot

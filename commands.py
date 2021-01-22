@@ -13,4 +13,4 @@ async def ping(ctx):
     fullcmd = 'Time:' + tictoc
     await ctx.send(fullcmd)
 
-bot.run('[OMITTED]')
+bot.run('[OMITTED]') # Note: this line is to hide the API key so random peoople can't destroy the bot.
