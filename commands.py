@@ -1,7 +1,8 @@
 import discord
+import time
 from discord.ext import commands
 
-bot = commands.Bot(command_prefix='>')
+bot = commands.Bot(command_prefix='sot!')
 
 @bot.command()
 async def ping(ctx):
