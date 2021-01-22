@@ -10,6 +10,7 @@ async def ping(ctx):
     await ctx.send('Pong!')
     toc = time.perf_counter()
     tictoc = toc - tic
-    await ctx.send('Time:', tictoc)
+    fullcmd = 'Time:' + tictoc
+    await ctx.send(fullcmd)
 
 bot.run('[OMITTED]')
