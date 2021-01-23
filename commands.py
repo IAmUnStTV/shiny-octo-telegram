@@ -14,4 +14,4 @@ async def ping(ctx):
     await ctx.send(fullcmd)
 
 bot.run('[OMITTED]') # Note: this line is to hide the API key so \
-random peoople can't destroy the bot. That's what the GitHub repo is for
+# random peoople can't destroy the bot. That's what the GitHub repo is for
